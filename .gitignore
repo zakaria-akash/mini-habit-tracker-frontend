@@ -36,6 +36,12 @@ yarn-error.log*
 # vercel
 .vercel
 
+# IDE and AI tool directories
+.vscode
+.idea
+.gemini
+.claude
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts
